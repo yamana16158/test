@@ -8,3 +8,4 @@
 # 3.Apex
 https://www.ea.com/ja-jp/games/apex-legends
 
+![メモ](test.md "ポップアップ文字") 
